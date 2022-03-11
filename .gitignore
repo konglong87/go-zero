@@ -8,7 +8,7 @@
 
 # Unignore all dirs
 !*/
-!api
+!模板们/api
 
 .idea
 **/.DS_Store
